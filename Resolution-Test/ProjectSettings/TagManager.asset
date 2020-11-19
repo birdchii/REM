@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectable
+  - Platform
+  - SpawnPoint
+  - FallDetector
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - SpawnPoint
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SkyMiddle
+    uniqueID: 3672069257
+    locked: 0
+  - name: SkyBot
+    uniqueID: 2828130231
+    locked: 0
+  - name: SkyTop
+    uniqueID: 266834675
+    locked: 0
+  - name: Vines
+    uniqueID: 644557521
+    locked: 0
+  - name: RemHouse
+    uniqueID: 3127025677
+    locked: 0
+  - name: FogCloud
+    uniqueID: 2435661115
+    locked: 0
+  - name: RemTree3
+    uniqueID: 162301201
+    locked: 0
+  - name: SomniaHouse
+    uniqueID: 1477009545
+    locked: 0
+  - name: SomniaBed
+    uniqueID: 2876586023
+    locked: 0
+  - name: RemTree2
+    uniqueID: 736650481
+    locked: 0
+  - name: SpikesB
+    uniqueID: 1892498901
+    locked: 0
+  - name: SpikesA
+    uniqueID: 605887593
+    locked: 0
+  - name: RemTree
+    uniqueID: 3960332193
+    locked: 0
+  - name: water
+    uniqueID: 3845368377
+    locked: 0
+  - name: MeteorA
+    uniqueID: 2160179055
+    locked: 0
+  - name: MeteorB
+    uniqueID: 3509191033
+    locked: 0
+  - name: Platforms
+    uniqueID: 109347859
+    locked: 0
+  - name: Entity
+    uniqueID: 1599655323
+    locked: 0
+  - name: Enemy
+    uniqueID: 1127411583
+    locked: 0
+  - name: Door
+    uniqueID: 1632498987
+    locked: 0
+  - name: Door2
+    uniqueID: 2265489689
+    locked: 0
